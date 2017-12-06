@@ -2,7 +2,7 @@ Package.describe({
   name         : 'copypants:deviantart-oauth',
   version      : '0.0.1',
   summary      : 'Login service for deviantart accounts',
-  git          : '',
+  git          : 'https://github.com/Copypants/meteor-deviantart-oauth',
   documentation: 'README.md'
 });
 
